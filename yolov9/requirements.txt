@@ -48,3 +48,4 @@ pycocotools>=2.0
 easyocr
 huggingface_hub
 torchvision
+torch
